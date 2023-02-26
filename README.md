@@ -2,7 +2,7 @@
 
 Submitted by: **Kazi Anwar**
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Summary
 
@@ -20,18 +20,19 @@ The following REQUIRED features are completed:
 
 The following STRETCH features are implemented:
 
-- [ ] Re-brand the app by modifying the UI
+- [X] Re-brand the app by modifying the UI
 - [X] Modify the profile image by uploading a new image drawable
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [X] List anything else that you added to improve the app!
+I added the background tint feature.
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/E4SIFNC.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/wvXOMUP.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **imgur**
 
